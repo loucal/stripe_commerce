@@ -63,4 +63,8 @@ EXAMPLE USAGE!!
       end
     end
   end
+
+  def recent_admin_users
+    []
+  end
 end
